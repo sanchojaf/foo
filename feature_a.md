@@ -1,1 +1,1 @@
-Feature A allow enter a sequence of a's 'aaaaa'
+Feature A allow enter a sequence of a's 'aaaaa' from console
